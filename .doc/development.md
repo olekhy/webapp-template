@@ -2,14 +2,15 @@
 
 * [Docker](docker.md)
 * [Development](development.md)
+  * [wie erstelle ich eine Route](development/route-erstellen.md) 
 * [Database](db.md)
 * [API](app.md)
 
 ### setup DNS entry local
 please add next in /etc/hosts
 
-10.120.5.2 @PROJECT_NAME@-app
-10.120.5.3 @PROJECT_NAME@-db
+10.120.5.2 zaehlerablesung-frontend-app
+10.120.5.3 zaehlerablesung-frontend-db
 
 ### working with docker
 
